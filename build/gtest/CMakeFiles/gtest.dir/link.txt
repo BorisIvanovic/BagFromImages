@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g -DNDEBUG   -shared -Wl,-soname,libgtest.so -o /home/bivanovi/rosbuild_ws/BagFromImages/lib/libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/bivanovi/rosbuild_ws/BagFromImages/build/gtest/src -lpthread -Wl,-rpath,/home/bivanovi/rosbuild_ws/BagFromImages/build/gtest/src 

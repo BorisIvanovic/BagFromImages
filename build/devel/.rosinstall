@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bivanovi/rosbuild_ws/BagFromImages/build/devel/setup.sh
